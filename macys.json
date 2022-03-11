@@ -7,8 +7,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "086a5330df503551860",
-	"APPLOVIN_INTERSTITIAL_ID": "6eced1c42066687f23e9",
+	"APPLOVIN_BANNER_ID": "03d9433dabc71cd2",
+	"APPLOVIN_INTERSTITIAL_ID": "15cda94556098b9e",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"6eced465D1c4207f23e9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -17,16 +17,16 @@
 	"UNITY_GAME_ID": "14354",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "56856",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive": false,
-	"Interval_Time":60000, 
+	"popAppLink": "https://smrturl.co/o/132730/53177516",
+	"popAppName": "Get Free Gift Card",
+	"popAppImage": "https://kosheronabudget.com/wp-content/uploads/2016/12/Macys-Gift-Card.png",
+	"popAppPackage": "",
+	"popAppIsActive": true,
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
 	"isPage2Activate": false,
@@ -52,9 +52,9 @@
 	"URLs": [
 
 		{
-			"title": "https://www.macys.com/",
+			"title": "Macys",
 			"image": "https://raw.githubusercontent.com/HaytamFrh/macysimg/main/logo.png",
-			"url": "https://"
+			"url": "https://www.macys.com/"
 		}
 		
 
